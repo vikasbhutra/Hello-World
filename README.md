@@ -33,6 +33,10 @@ An assembly language, often abbreviated asm, is any low-level programming langua
 
 - [x] **Autoit**
 AutoIt is a freeware automation language for Microsoft Windows. In its earliest release, the software was primarily intended to create automation scripts for Microsoft Windows programs but has since grown to include enhancements in both programming language design and overall functionality.
+
+- [x] **React**
+React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications
+
 - [x] **BASIC**
 BASIC is a family of general-purpose, high-level programming languages whose design philosophy emphasizes ease of use. In 1964, John G. Kemeny and Thomas E. Kurtz designed the original BASIC language at Dartmouth College. They wanted to enable students in fields other than science and mathematics to use computers.
   
